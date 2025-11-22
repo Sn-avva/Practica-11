@@ -16,3 +16,7 @@ int producto (int a, int b)
 {
  return (int)(a*b);
 }
+static int cociente (int a, int b)
+{
+ return (int)(a/b);
+}
